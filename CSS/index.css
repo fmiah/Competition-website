@@ -1,28 +1,57 @@
 /* Site settings */
+
 body{
 	font-family: sans-serif;
-	width:90%;
-	max-width:1024px;
-	margin:0 auto;
-	color:
+	width:170%;
+	max-width:1160px;
+	margin-left: 200px;
+	margin-right: 200px;
+	padding-left: 200px;
 	line-height:1.5;
+	background-image: url('https://goo.gl/images/ZMLEpn');
 }
+.form-control{
+	padding-top: 100px;
+}
+
 ul.nav li{
 
 	display: inline-block;
 
 	padding-right: 10px;
+	padding-top: 100px;
+
 }
 
 
 .nav li{
-	paddin: 8px, 16px;
+	padding: 8px, 16px;
 	margin-right: 8px;
 
 }
 .nav a{
-	background-color:red;
+	background-color:navy;
 	color:white;
+}
+.navbar_brand{
+	font-size: 200px;
+}
+h1{
+	color:purple;
+	font:papyrus;
+	text-align: center;
+}
+h2{
+	text-align: center;
+	padding-top: 50px;
+}
+p{
+	font-size: 20px;
+	padding-top: 50px;
+}
+
+#contact_us{
+	margin-bottom: 20px;
 
 }
 /* Headings */
