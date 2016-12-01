@@ -3,56 +3,50 @@
 body{
 	font-family: sans-serif;
 	width:170%;
-	max-width:1160px;
-	margin-left: 200px;
+	max-width:2000px;
+	margin-left: 250px;
 	margin-right: 200px;
 	padding-left: 200px;
 	line-height:1.5;
-	background-image: url('https://goo.gl/images/ZMLEpn');
 }
-.form-control{
-	padding-top: 100px;
+.navbar.navbar-default{
+	padding-left:200px;
+	padding-top: 10px;
+	width: 90%;
 }
-
+.navbar-brand{
+	font-size: 20px;
+}
 ul.nav li{
 
 	display: inline-block;
-
-	padding-right: 10px;
-	padding-top: 100px;
-
+	padding-right: 8px;
+	padding-top: 25px;
 }
-
 
 .nav li{
-	padding: 8px, 16px;
+	padding: 8px, 8px;
 	margin-right: 8px;
-
 }
 .nav a{
-	background-color:navy;
+	background-color:black;
 	color:white;
-}
-.navbar_brand{
-	font-size: 200px;
 }
 h1{
 	color:purple;
 	font:papyrus;
 	text-align: center;
-}
-h2{
-	text-align: center;
-	padding-top: 50px;
+	padding-top: 100px;
 }
 p{
-	font-size: 20px;
+	font-size: 25px;
 	padding-top: 50px;
+	text-align: center;
+	padding-bottom: 20px;
 }
 
 #contact_us{
-	margin-bottom: 20px;
+	margin-bottom: 50px;
 
 }
-/* Headings */
 	
